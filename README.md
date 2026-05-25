@@ -224,7 +224,7 @@ To deploy your own instance:
 
 ## 👤 Author
 
-**Shahu** — Fresher building real AI projects in public.
+**Shahu Ugale** | AI Engineer
 
 Connect on [LinkedIn](#) | [GitHub](https://github.com/shahu285)
 
