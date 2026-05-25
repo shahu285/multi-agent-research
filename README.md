@@ -1,4 +1,4 @@
-# 🔬 Multi-Agent Research Assistant
+# 🔬 MultiThesis - Multi-Agent Research Assistant
 
 > An AI-powered research tool that deploys multiple specialized agents to search the web, summarize findings, verify facts, and produce structured research reports — all in real time.
 
