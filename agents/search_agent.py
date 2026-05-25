@@ -1,16 +1,13 @@
 from tavily import TavilyClient
-import os 
-from dotenv import load_dotenv
-
-load_dotenv()
-
-tavily = TavilyClient(api_key=os.getenv("TAVILY_API_KEY"))
+import os
 
 def search_node(state: dict) -> dict:
+    tavily = TavilyClient(api_key=os.environ.get("TAVILY_API_KEY"))
+
     query = state["query"]
 
     results = tavily.search(
-        query = query,
+        query=query,
         max_results=5,
         search_depth="advanced"
     )
