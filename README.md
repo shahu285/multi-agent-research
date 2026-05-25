@@ -2,7 +2,7 @@
 
 > An AI-powered research tool that deploys multiple specialized agents to search the web, summarize findings, verify facts, and produce structured research reports — all in real time.
 
-🚀 **Live Demo** → [multiagent1.streamlit.app](https://multiagent1.streamlit.app)
+🚀 **Live Demo** → [multi-agent1.streamlit.app](https://multi-agent1.streamlit.app/)
 
 ---
 
